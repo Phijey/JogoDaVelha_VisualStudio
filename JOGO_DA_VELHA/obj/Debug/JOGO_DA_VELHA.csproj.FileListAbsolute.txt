@@ -1,0 +1,10 @@
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\bin\Debug\JOGO_DA_VELHA.exe.config
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\bin\Debug\JOGO_DA_VELHA.exe
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\bin\Debug\JOGO_DA_VELHA.pdb
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.csproj.AssemblyReference.cache
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.Form1.resources
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.Properties.Resources.resources
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.csproj.GenerateResource.cache
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.csproj.CoreCompileInputs.cache
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.exe
+C:\Users\pjmtc\OneDrive\Área de Trabalho\LogP\JOGO_DA_VELHA\obj\Debug\JOGO_DA_VELHA.pdb
